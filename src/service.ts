@@ -6,7 +6,7 @@ import {
   validators,
   Gauge,
   Counter,
-} from '@vmeta3/common-ts'
+} from '@vmeta3/common'
 import { CrossChainMessenger, MessageStatus } from '@vmeta3/sdk'
 import { Provider } from '@ethersproject/abstract-provider'
 
